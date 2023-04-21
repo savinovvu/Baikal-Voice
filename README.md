@@ -1,20 +1,29 @@
 # The more we speak the better we speak...
 # [https://t.me/baikal_voice](https://t.me/baikal_voice)
 
-[About me](src/common/1.bio.md) ___  [tips in russian](src/common/2.russian-tips.md)
+[About me](src/common/1.bio.md)
 
 
 
 ## Skills and Tips shortly
-1. VOCABULAR (wordbit, lingualeo, duolingua and etc.)
-2. GRAMMAR ( EngVid )
-3. READING and PRONUNCIATION (ELSA applicaiton)
-4. WRITING (messengers, social media)
-5. LISTENING (Luke's English podcast, Movies, Conversations)
-6. MONOLOGUE SPEAKING (Telegram voices messages)
-7. DIALOG SPEAKING (conversations only)
+
+| № | Skill                                             | Free Resources                                                                                | Paid Resources                                                 |
+|---|---------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 1 | Vocabulary                                        | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases]() | Lingualeo, Duolingo         |
+| 2 | Grammar                                           | [EngVid](https://www.youtube.com/user/engvidenglish), [My notes](./src/grammar)               | Lingualeo                                                     |
+| 3 | Reading and Pronunciation                         |                                                                                               |[ELSA app](https://elsaspeak.com/en/)                                                                   |
+| 4 | Writing                                           | Messengers, social media                                                                      |                                               |
+| 5 | Listening                                         | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                   |                   |
+| 6 | Monologue Speaking (Voice Messages)               | Telegram voices messages                                                                      |                                                                 |
+| 7 | **Dialog Speaking (Conversations with partners)** | [Conversation classes](https://t.me/baikal_voice)                                             |                        |
+| 8 | Mixed Skills                                      | [Special Games](src/mixed/games.md)                                                       |                        |
+
 
 ## Baikal Voice Tips
+
+## Contribute
+
+Feel free to make a ***pull request*** to this repo.
 
 ## Donate
 😍It's all free, but if you want to thank me, you can buy me tea, cookies or a birthday cake.😍 
@@ -31,3 +40,5 @@ MIR CARD NUMBER:
 ```
 2200 0101 4471 2760
 ```
+
+##### 💫 Or put a star on the github ⭐️
