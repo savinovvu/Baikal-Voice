@@ -14,7 +14,7 @@
 | 4 | Writing                                           | Messengers, social media                                                                                                        |                                               |
 | 5 | Listening                                         | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                                                     |                                               |
 | 6 | Monologue Speaking (Voice Messages)               | Telegram voices messages                                                                                                        |                                               |
-| 7 | **Dialog Speaking (Conversations with partners)** | [Conversation classes](https://t.me/baikal_voice)                                                                               |                                               |
+| 7 | **Dialog Speaking** | [Conversation classes](https://t.me/baikal_voice)                                                                               |                                               |
 | 8 | Mixed Skills                                      | [Special Games](src/skills/mixed/games.md)                                                                                      |                                               |
 
 
