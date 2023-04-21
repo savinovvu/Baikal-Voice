@@ -68,11 +68,11 @@ By the way, my birthday on Halloween is October 31. If the pumpkins light up🎃
 to: Savinov Vasiliy
 
 UNIONPAY CARD NUMBER: 
-```
+```text
 6233 7204 4335 8022
 ```
 
 MIR CARD NUMBER:
-```
+```text
 2200 0101 4471 2760
 ```
