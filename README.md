@@ -8,7 +8,7 @@
 
 | № | Skill                                             | Free Resources                                                                                                                  | Paid Resources                                |
 |---|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 1 | Vocabulary                                        | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases](./src/skills/vocabulary/phrases.md) | [Lingualeo](https://lingualeo.com/), Duolingo |
+| 1 | Vocabulary                                        | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases](./src%2Fskills%2Fvocabulary%2Fvocabulary_print.pdf) | [Lingualeo](https://lingualeo.com/), Duolingo |
 | 2 | Grammar                                           | [EngVid](https://www.youtube.com/user/engvidenglish), [My notes](src/skills/grammar/README.md)                                  | [Lingualeo](https://lingualeo.com/)           |
 | 3 | Reading and Pronunciation                         |                                                                                                                                 | [ELSA app](https://elsaspeak.com/en/)         |
 | 4 | Writing                                           | Messengers, social media                                                                                                        |                                               |
