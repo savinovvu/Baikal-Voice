@@ -1,7 +1,7 @@
 # The more we speak the better we speak...
 # [https://t.me/baikal_voice](https://t.me/baikal_voice)
 
-[About me](./1.bio.md) ___  [tips in russian](./2.russian-tips.md)
+[About me](src/common/1.bio.md) ___  [tips in russian](src/common/2.russian-tips.md)
 
 
 
