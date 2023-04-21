@@ -1,3 +1,4 @@
+##### 💫 Please, put a star on the github ⭐️
 # [The more we speak the better we speak...](https://t.me/baikal_voice)
 
 [About me](src/common/1.bio.md)
@@ -75,5 +76,3 @@ MIR CARD NUMBER:
 ```
 2200 0101 4471 2760
 ```
-
-##### 💫 Or put a star on the github ⭐️
