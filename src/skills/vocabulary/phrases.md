@@ -1,4 +1,3 @@
-# This is phrases for different situations (live, games, movies)
 Number Phrase                    Transcription                  Translation
 1	A bird with a spotted back	[eɪ bɜrd wɪð eɪ spˈɒtɪd bæk]	Птица с пятнистой спиной
 2	a bookwork is a person devoted to reading	[eɪ ɪz eɪ ˈpɜrsən dɪˈvoʊtəd tu ˈrɛdɪŋ]	книжный мастер - это человек, преданный чтению
