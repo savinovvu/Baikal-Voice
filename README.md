@@ -17,7 +17,9 @@
 ## Baikal Voice Tips
 
 ## Donate
-It's all free, but if you want to thank me, you can buy me tea, cookies or a birthday cake. By the way, my birthday on Halloween is October 31. If the pumpkins light up, then I celebrate my holiday.
+😍It's all free, but if you want to thank me, you can buy me tea, cookies or a birthday cake.😍 
+
+By the way, my birthday on Halloween is October 31. If the pumpkins light up, then I celebrate my holiday.
 to: Savinov Vasiliy
 
 UNIONPAY CARD NUMBER: 
