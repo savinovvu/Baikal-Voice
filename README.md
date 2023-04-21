@@ -6,16 +6,16 @@
 
 ## Skills and Tips shortly
 
-| № | Skill                                             | Free Resources                                                                                 | Paid Resources                                |
-|---|---------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| 1 | Vocabulary                                        | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases]()  | [Lingualeo](https://lingualeo.com/), Duolingo |
-| 2 | Grammar                                           | [EngVid](https://www.youtube.com/user/engvidenglish), [My notes](src/skills/grammar/README.md) | [Lingualeo](https://lingualeo.com/)           |
-| 3 | Reading and Pronunciation                         |                                                                                                | [ELSA app](https://elsaspeak.com/en/)         |
-| 4 | Writing                                           | Messengers, social media                                                                       |                                               |
-| 5 | Listening                                         | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                    |                                               |
-| 6 | Monologue Speaking (Voice Messages)               | Telegram voices messages                                                                       |                                               |
-| 7 | **Dialog Speaking (Conversations with partners)** | [Conversation classes](https://t.me/baikal_voice)                                              |                                               |
-| 8 | Mixed Skills                                      | [Special Games](src/skills/mixed/games.md)                                                     |                                               |
+| № | Skill                                             | Free Resources                                                                                                                  | Paid Resources                                |
+|---|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| 1 | Vocabulary                                        | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases](./src/skills/vocabulary/phrases.md) | [Lingualeo](https://lingualeo.com/), Duolingo |
+| 2 | Grammar                                           | [EngVid](https://www.youtube.com/user/engvidenglish), [My notes](src/skills/grammar/README.md)                                  | [Lingualeo](https://lingualeo.com/)           |
+| 3 | Reading and Pronunciation                         |                                                                                                                                 | [ELSA app](https://elsaspeak.com/en/)         |
+| 4 | Writing                                           | Messengers, social media                                                                                                        |                                               |
+| 5 | Listening                                         | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                                                     |                                               |
+| 6 | Monologue Speaking (Voice Messages)               | Telegram voices messages                                                                                                        |                                               |
+| 7 | **Dialog Speaking (Conversations with partners)** | [Conversation classes](https://t.me/baikal_voice)                                                                               |                                               |
+| 8 | Mixed Skills                                      | [Special Games](src/skills/mixed/games.md)                                                                                      |                                               |
 
 
 ## Baikal Voice Tips
