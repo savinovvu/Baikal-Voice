@@ -1,5 +1,5 @@
 ##### 💫 Please, put a star on the github ⭐️
-# [The more we speak the better we speak...](https://t.me/baikal_voice)
+# [The more we speak the better we speak...](https://t.me/baikal_voice) <--- Telegram community link
 
 [About me](src/common/bio.md)
 
