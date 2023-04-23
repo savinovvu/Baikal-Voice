@@ -1,5 +1,5 @@
 ##### 💫 Please, put a star on the github ⭐️
-# [The more we speak the better we speak...](https://t.me/baikal_voice) <--- Telegram community link
+# [The more we speak the better we speak...](https://t.me/baikalvoice) <--- Telegram community link
 
 [About me](src/common/bio.md)
 
@@ -15,7 +15,7 @@
 | 4 | Writing                                           | Messengers, social media                                                                                                        |                                               |
 | 5 | Listening                                         | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                                                     |                                               |
 | 6 | Monologue Speaking (Voice Messages)               | Telegram voices messages                                                                                                        |                                               |
-| 7 | **Dialog Speaking** | [Conversation classes](https://t.me/baikal_voice)                                                                               |                                               |
+| 7 | **Dialog Speaking** | [Conversation classes](https://t.me/baikalvoice)                                                                               |                                               |
 | 8 | Mixed Skills                                      | [Special Games](src/skills/mixed/games.md)                                                                                      |                                               |
 
 
