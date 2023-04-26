@@ -19,60 +19,85 @@
 | 8 | Mixed Skills                                      | [Special Games](src/skills/mixed/games.md)                                                                                      |                                               |
 
 
-## Baikal Voice Tips
+## 🎓 Baikal Voice Tips 🌍
 
-There are lotta methods to study english.  
-It's recognized that the more you immerse yourself in the environment, the better you begin to understand the 
-foreign language and culture.  
-So that's a reason why I deceided to use lotta ways to achive this goal.  
-The most of these tips are banal, but every tip suggest concrete solution or **several solutions**.
-All of these solutions together make a process of daily education.  
-It was my goal: build a **process for easy daily education**.
+When it comes to mastering the English language, there are countless methods
+out there 🤔. But let me tell you, the most powerful way to truly absorb the
+language and culture is to immerse yourself in it completely 🌊. That's why
+I'm pulling out all the stops to achieve my goal! 💪
+
+Sure, some of these techniques might seem like old news 📰, but don't let that
+fool you 🙅‍♀️. Every single one of them offers tangible solutions that, when
+used in combination, create an unbeatable system for effortless daily learning
+🚀. Get ready to level up your English skills like never before! 📈
 
 ### 1. Use background teaching mode 📲
-Wordbit app (or analogues) helps you to do it when you unlock your mobile screen.  
-It's the easiest way, and surely that's not efficient. But just imagine how many times you unlock your phone every day,
-and think about month or year. This method can support you to study words, it cannot change words studing totally, but
-it's very helpful like one of bricks in the wall of your education.
+Let me tell you about an awesome hack for expanding your vocabulary 🔍:
+Wordbit app (or any other similar apps) with background teaching mode. Here's
+the deal: every time you unlock your mobile screen, you'll be greeted with a
+new word to learn! 🤩 Now, it may not be the fastest way to learn new words,
+but just think about how many times you unlock your phone every day 🤔. That's
+a whole lot of opportunities to strengthen your word game! 💪 So if you're
+ready to take your vocabulary to the next level, give this method a try 🙌. You
+won't regret it!
 
 ### 2. Study phrases (not only words) 🚀
-When we are kids, first we try to say sounds, then we try to say word, then sentence and only then text with bunch of sententes.
-When you start studing words with context, for example in sentence.  Your skill starts growing faster than when you study alone words.
+If you really want to level up your language game, it's time to start
+studying phrases instead of just words 🤓. Trust me, when you learn words in
+context - like in complete sentences - your language skills will improve at
+lightning speed! ⚡ It's not just about memorizing individual words; it's
+about understanding how they fit together in real-world conversations 🗣️.
 
-### 3. Watch native english teachers 📖
-The era of the Internet has come, and there is good opportunity to visit lections from home.  
-That's very interesting to listen about grammar or vocabular (especially **phrasal verbs**) not only from your local english teachers
-but from native english teachers. They have experience to teach their native language to foreigners.
-For that goal i happy to use **EngVid** school Videos and **Luke's English** podcast.
+### 3. Watch videos from native English teachers online 📖
+Are you ready to take your English skills to the next level without even
+leaving the comfort of your own home 🏠? Look no further than the internet!
+With just a few clicks, you can access amazing lectures from native English
+speakers who know exactly how to teach their language to foreigners 🌏. And
+let me tell you, the resources out there are incredible - but my personal
+favorites are 🌟 EngVid School Videos 📚 and 🌟 Luke's English podcast 🎙️.
+Trust me, these sources are the real deal! So if you're ready to dive in and
+start learning like a pro 🤩, fire up your computer and get started with these
+amazing resources. You won't regret it!
 
-### 4. Use voices messages ✈️
-Every year the pace of life is faster and faster.  
-There are lotta people around you who wants to study english with you.
-But It's difficult to negotiate about time for conversation.  
-There is solution: use telegram voices messages.
-That's free and you can record it in comfortable time for you and your friend will read it when he will have time 
-for it. That's awesome, right?
-If your listening skill weak, you can buy telegram premium and you will read messages and then listen to it.  
+### 4. Use voice messages on Telegram to communicate with friends who also want to study English 📱✈️
 
-### 5. Translate messages in you native language into English 🇬🇧
-There are ways to translate messages to english in messengers or in phones.  
-For example I use telegram premium for it.
+Struggling to understand messages on the first listen? Don't worry!
+With Telegram Premium, you can replay audio or transcribe messages into text for easier comprehension.
+And if you lack confidence in your spoken English, simply record your message without an audience by turning off your internet connection.
+Listen back to your recording and delete or redo it until you're happy with the result.
+Then, turn your internet back on and send your message with confidence - a fantastic tool for improving conversational English skills.
+Don't let language barriers hold you back.
+
+Recording messages at your convenience is a great solution for busy schedules.🗣️
+If your listening skills need work, upgrade to Telegram Premium and read messages before listening.
+
+### 5. Translate messages in your native language into English 💬🇬🇧
+Translation tools are available in messengers and on phones - I use Telegram Premium for this.
+
+
 ## Contribute
 
 Feel free to make a ***pull request*** to this repo.
 
-## Donate
-😍It's all free, but if you want to thank me, you can buy me tea, cookies or a birthday cake.😍 
+## 🎉Donate to keep the good vibes going!🎉
+
+😍Everything I do is completely free, but if my advice or assistance has made your day a little brighter,  
+consider buying me a cup of coffee, a plate of cookies, or even a whole birthday cake!🎂
+🙌Your support means the world to me, and it helps me keep sharing positivity with everyone I meet.  
+Plus, who doesn't love a tasty treat?😋
+👉So go ahead and spread some love with your donation today.  
+It's the sweetest way to say thank you!❤️ 
 
 By the way, my birthday on Halloween is October 31. If the pumpkins light up🎃, then I celebrate my holiday🎂.  
+
+
+```text
 to: Savinov Vasiliy
 
 UNIONPAY CARD NUMBER: 
-```text
 6233 7204 4335 8022
-```
 
 MIR CARD NUMBER:
-```text
 2200 0101 4471 2760
 ```
+
