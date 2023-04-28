@@ -2,10 +2,11 @@
 # The more we speak the better we speak...
 [About me](src/common/bio.md)
 
-| № | Community | Link                       |
-|---|-----------|----------------------------|
-| 1 | English   | https://t.me/baikalvoice   |
-| 2 | Russian   | https://t.me/baikalvoiceRu |
+| № | Communities                  | Details                       | Link                                      |
+|---|------------------------------|-------------------------------|-------------------------------------------|
+| 1 | **Welcome and Introduction** | Self-presentation | https://t.me/baikalvoiceFlooding |
+| 2 | English                      | Community for studying English | Look at Welcome and Introduction |
+| 3 | Russian                      | Community for studying Russian | Look at Welcome and Introduction |
 
 
 
