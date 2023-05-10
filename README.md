@@ -6,14 +6,14 @@
 |---|------------------------------|--------------------------------|-------------------------------------------|
 | 1 | **Welcome and Introduction** | Self-presentation              | https://t.me/baikalvoiceFlooding |
 | 2 | English Spoken               | Spoken English                 | https://t.me/baikalvoicesMessagesList  |
-| 2 | English Grammar              | Grammar and Memes              | https://t.me/baikalvoice  |
-| 3 | Arabic                       | Community for studying Arabic | https://t.me/baikalvoiceAr |
-| 4 | Chinese                      | Community for studying Chinese | https://t.me/baikalvoiceCh|
-| 7 | Hindi                        | Community for studying Hindi | https://t.me/baikalvoiceIn  |
-| 5 | Russian                      | Community for studying Russian | https://t.me/baikalvoiceRu |
-| 6 | Spanish                      | Community for studying Spanish | https://t.me/baikalvoiceSp |
+| 3 | English Grammar              | Grammar and Memes              | https://t.me/baikalvoice  |
+| 4 | Arabic                       | Community for studying Arabic | https://t.me/baikalvoiceAr |
+| 5 | Chinese                      | Community for studying Chinese | https://t.me/baikalvoiceCh|
+| 6 | Hindi                        | Community for studying Hindi | https://t.me/baikalvoiceIn  |
+| 7 | Russian                      | Community for studying Russian | https://t.me/baikalvoiceRu |
+| 8 | Spanish                      | Community for studying Spanish | https://t.me/baikalvoiceSp |
 
-
+"THE MORE WE SPEAK, THE BETTER AND MORE FLUENTLY WE SPEAK"
 
 
 
