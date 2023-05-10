@@ -2,11 +2,16 @@
 # The more we speak the better we speak...
 [About me](src/common/bio.md)
 
-| № | Communities                  | Details                       | Link                                      |
-|---|------------------------------|-------------------------------|-------------------------------------------|
-| 1 | **Welcome and Introduction** | Self-presentation | https://t.me/baikalvoiceFlooding |
-| 2 | English                      | Community for studying English | Look at Welcome and Introduction |
-| 3 | Russian                      | Community for studying Russian | Look at Welcome and Introduction |
+| № | Communities                  | Details                        | Link                                      |
+|---|------------------------------|--------------------------------|-------------------------------------------|
+| 1 | **Welcome and Introduction** | Self-presentation              | https://t.me/baikalvoiceFlooding |
+| 2 | English Spoken               | Spoken English                 | https://t.me/baikalvoicesMessagesList  |
+| 2 | English Grammar              | Grammar and Memes              | https://t.me/baikalvoice  |
+| 3 | Arabic                       | Community for studying Arabic | https://t.me/baikalvoiceAr |
+| 4 | Chinese                      | Community for studying Chinese | https://t.me/baikalvoiceCh|
+| 7 | Hindi                        | Community for studying Hindi | https://t.me/baikalvoiceIn  |
+| 5 | Russian                      | Community for studying Russian | https://t.me/baikalvoiceRu |
+| 6 | Spanish                      | Community for studying Spanish | https://t.me/baikalvoiceSp |
 
 
 
@@ -76,7 +81,8 @@ Then, turn your internet back on and send your message with confidence - a fanta
 Don't let language barriers hold you back.
 
 Recording messages at your convenience is a great solution for busy schedules.🗣️
-If your listening skills need work, upgrade to Telegram Premium and read messages before listening.
+If your listening skills need work, upgrade to Telegram Premium and read messages before listening.  
+[Community](https://t.me/baikalvoicesMessagesList)
 
 ### 5. Translate messages in your native language into English 💬🇬🇧
 Translation tools are available in messengers and on phones - I use Telegram Premium for this.
