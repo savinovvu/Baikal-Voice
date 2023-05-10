@@ -13,7 +13,6 @@
 | 7 | Russian                      | Community for studying Russian | https://t.me/baikalvoiceRu |
 | 8 | Spanish                      | Community for studying Spanish | https://t.me/baikalvoiceSp |
 
-"THE MORE WE SPEAK, THE BETTER AND MORE FLUENTLY WE SPEAK"
 
 
 
