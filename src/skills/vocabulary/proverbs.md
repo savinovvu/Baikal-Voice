@@ -1,0 +1,10 @@
+| № | Proverb                             | Explanation                                                                                                                                     | 
+|---|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Vocabulary                          | [Wordbit app](https://play.google.com/store/apps/details?id=net.wordbit.enru), [My phrases](./src%2Fskills%2Fvocabulary%2Fvocabulary_print.pdf) | 
+| 2 | Grammar                             | [EngVid](https://www.youtube.com/user/engvidenglish), [My notes](src/skills/grammar/README.md)                                                  |
+| 3 | Reading and Pronunciation           |                                                                                                                                                 |
+| 4 | Writing                             | Messengers, social media                                                                                                                        |
+| 5 | Listening                           | [Luke's English podcast](https://teacherluke.co.uk/), movies, conversations                                                                     |
+| 6 | Monologue Speaking (Voice Messages) | Telegram voices messages                                                                                                                        |
+| 7 | **Dialog Speaking**                 | [Conversation classes](https://t.me/baikalvoice)                                                                                                |
+| 8 | Mixed Skills                        | [Special Games](src/skills/mixed/games.md)                                                                                                      |
